@@ -1,6 +1,6 @@
 ---
 name: BitBucketServer
-slug: bitbucketserver
+slug: bitbucket-server
 ---
 
 After installing add the following configuration to your `config/shield.php` file:
