@@ -1,5 +1,5 @@
 ---
-name: BitBucketServer
+name: Bit Bucket Server
 slug: bitbucket-server
 ---
 
