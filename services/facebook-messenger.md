@@ -1,5 +1,5 @@
 ---
-name: FacebookMessenger
+name: Facebook Messenger
 slug: facebook-messenger
 ---
 
