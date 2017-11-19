@@ -8,6 +8,7 @@ After installing add the following configuration to your `config/shield.php` fil
 ````php
 'services' => [
     'shopify' => [
+        'driver' => \Shield\Shopify\Shopify::class,
         'options' => [
             'token' => 'your-webhook-token',
         ]
